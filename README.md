@@ -1,7 +1,7 @@
 ## Izaque Liborio <img src="https://github.githubassets.com/images/mona-whisper.gif">
 
-
- [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLiborio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaque-liborio-388b99154//)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
+- Para entrar em contato:
+- [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLiborio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaque-liborio-388b99154//)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
  [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLib-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/izaquelib/)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
 
 
