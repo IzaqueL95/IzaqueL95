@@ -5,7 +5,7 @@
  [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLib-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/izaquelib/)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
 
 
-<h1>Um pouco sobre mim</h1>
+
 
 - Linguagens
 -   [![Linkedin Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#)
