@@ -1,5 +1,4 @@
 ## Izaque Liborio <img src="https://github.githubassets.com/images/mona-whisper.gif">
-### Olá 
 
 - 📫 Como falar comigo:
 - [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLiborio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaque-liborio-388b99154//)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
