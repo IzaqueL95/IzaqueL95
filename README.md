@@ -1,22 +1,26 @@
-## Izaque Liborio <img src="https://github.githubassets.com/images/mona-whisper.gif">
+ # <a href="https://www.linkedin.com/in/izaque-liborio-388b99154/">Izaque Liborio</a> <img src="https://github.githubassets.com/images/mona-whisper.gif">
 
- - <h4>Meios de contato</h4>
-- [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLiborio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaque-liborio-388b99154//)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
-[![Linkedin Badge](https://img.shields.io/badge/-IzaqueLib-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/izaquelib/)](https://www.instagram.com/izaquelib/)
-##
+## About Me
+Tenho 23 anos e estou se formando no Bootcamp da Generation Brasil para Desenvolvedor web Java Full-stack, focado em tecnologias apropriadas para a demanda do mercado.
+Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
+<br>
 
-
-
-- Linguagens
--   [![Linkedin Badge](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#)
+## Technologies
+  
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
-
-- Banco de dados
-- [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
-- Front
-- [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
+  [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
+  [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=Css3&logoColor=white&link=#)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=AngularJs&logoColor=white&link=#)](#)
+  [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=#)](#)  
+ ## Meios de contato
+ [![Linkedin Badge](https://img.shields.io/badge/-IzaqueLiborio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izaque-liborio-388b99154//)](https://www.linkedin.com/in/izaque-liborio-388b99154/)
+[![Linkedin Badge](https://img.shields.io/badge/-IzaqueLib-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/izaquelib/)](https://www.instagram.com/izaquelib/)
+
+
+
+
+
 - 🔭 Sempre focado em ir mais longe ...
 - 🌱 Design limpo é bom demais ...
 - 💬 Sempre tentando independente da dificuldade ...
