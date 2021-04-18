@@ -10,8 +10,9 @@ Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
 <br>
 
 ## Technologies
-  - ⚡JAVA, SPRING-BOOT, MYSQL, JAVASCRIPT, HTML, CSS, ANGULAR, NODE.JS.
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
+  ⚡JAVA, SPRING-BOOT, MYSQL, JAVASCRIPT, HTML, CSS, ANGULAR, NODE.JS.
+  
+ - [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=Css3&logoColor=white&link=#)](#)
