@@ -8,7 +8,6 @@ Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
 - 💬 Sempre tentando independente da dificuldade ...
 
 <br>
-
 ## Technologies
   ⚡JAVA, SPRING-BOOT, MYSQL, JAVASCRIPT, HTML, CSS, ANGULAR, NODE.JS.
   
