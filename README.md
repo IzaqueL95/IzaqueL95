@@ -3,10 +3,14 @@
 ## About Me
 Tenho 23 anos e estou se formando no Bootcamp da Generation Brasil para Desenvolvedor web Java Full-stack, focado em tecnologias apropriadas para a demanda do mercado.
 Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
+- 🔭 Sempre focado em ir mais longe ...
+- 🌱 Design limpo é bom demais ...
+- 💬 Sempre tentando independente da dificuldade ...
+
 <br>
 
 ## Technologies
-  
+  - ⚡JAVA, SPRING-BOOT, MYSQL, JAVASCRIPT, HTML, CSS, ANGULAR, NODE.JS.
   [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](#)
   [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](#)
   [![Linkedin Badge](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white&link=#)](#)
@@ -21,10 +25,7 @@ Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
 
 
 
-- 🔭 Sempre focado em ir mais longe ...
-- 🌱 Design limpo é bom demais ...
-- 💬 Sempre tentando independente da dificuldade ...
-- ⚡JAVA, SPRING-BOOT, MYSQL, JAVASCRIPT, HTML, CSS, ANGULAR, NODE.JS.
+
 
 
 
