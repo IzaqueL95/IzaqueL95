@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/izaque-liborio-388b99154/">Izaque Liborio</a> <img src="https://github.githubassets.com/images/mona-whisper.gif">
+ # <a href="https://www.linkedin.com/in/izaque-liborio-388b99154/">Izaque Liborio</a> 
 
 ## About Me
 Tenho 23 anos e estou se formando no Bootcamp da Generation Brasil para Desenvolvedor web Java Full-stack, focado em tecnologias apropriadas para a demanda do mercado.
