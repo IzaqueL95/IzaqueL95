@@ -1,8 +1,7 @@
  # <a href="https://www.linkedin.com/in/izaque-liborio-388b99154/">Izaque Liborio</a> 
 
 ## About Me
-Tenho 23 anos e estou se formando no Bootcamp da Generation Brasil para Desenvolvedor web Java Full-stack, focado em tecnologias apropriadas para a demanda do mercado.
-Gosto muito de tecnologia e de como as coisas se encaixam nesse mundo.
+Sou desenvolvedor full stack, fascinado por tecnologia e IoT, sou maximalista e fascinado pelo bitcoin e suas inplicações no mundo. 
 - 🔭 Sempre focado em ir mais longe ...
 - 🌱 Design limpo é bom demais ...
 - 💬 Sempre tentando independente da dificuldade ...
